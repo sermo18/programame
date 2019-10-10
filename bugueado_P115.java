@@ -15,7 +15,7 @@ public class Solution115{
 
 		long cuadrado = k*k;
 		
-		String scuadrado = Long.toString(cuadrado);
+		String scuadrado = Long.toString(cuadrado)
 		boolean esKaprekar=false;
 		int f=0;
 		String izq, der;
@@ -29,12 +29,12 @@ public class Solution115{
 			if (f==0){
 				izq=String.valueOf(scuadrado.charAt(f));
 			}	
-			else{
+			else
 				izq = scuadrado.substring(0,f);
 			}
 				
 			der = scuadrado.substring(f,scuadrado.length()); 
-			if (der.equals("")){
+			if (der.equals(""')){
 				der="0";
 			}
 		
