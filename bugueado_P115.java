@@ -48,9 +48,9 @@ public class Solution115{
 		
 		}
 		if(esKaprekar){
-			System.out.println("SI.");
+			System.out.println("SI");
 		}else{
-			System.out.println("NO.");
+			System.out.println("NO");
 		}
 
 	}
@@ -58,9 +58,8 @@ public class Solution115{
 	public static void main (String args[]){
 		Scanner in = new Scanner(System.in);
 		while (in.hasNext()){
-      System.out.print(" No no nooooo, no has dicho la palabra mágica ");
 			casoDePrueba();
-      System.out.println();
+      			System.out.println();
 		}
 		System.exit(0);	
 	}
