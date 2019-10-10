@@ -46,6 +46,7 @@ public class bugueado_P115{
 		}
 		} //while hasnext()
 		System.exit(0);	
+		
 	} //main
 
 }
