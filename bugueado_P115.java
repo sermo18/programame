@@ -13,7 +13,7 @@ public class Solution115{
 
 		long cuadrado = k*k;
 		
-		String scuadrado = Long.toString(cuadrado)
+		String scuadrado = Long.toString(cuadrado);
 		boolean esKaprekar=false;
 		int f=0;
 		String izq, der;
