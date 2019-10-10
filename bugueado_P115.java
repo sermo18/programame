@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution115{
+public class bugueado_P115{
 	
 	public static void casoDePrueba(){
 		
