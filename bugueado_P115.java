@@ -59,7 +59,6 @@ public class Solution115{
 		Scanner in = new Scanner(System.in);
 		while (in.hasNext()){
 			casoDePrueba();
-      			System.out.println();
 		}
 		System.exit(0);	
 	}
