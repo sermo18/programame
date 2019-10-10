@@ -16,7 +16,7 @@ public class Solution115{
 		String scuadrado = Long.toString(cuadrado);
 		boolean esKaprekar=false;
 		int f=0;
-		String izq, der;
+		String izq="", der="";
 
 		if (k==1) esKaprekar=true;
 
@@ -27,7 +27,7 @@ public class Solution115{
 			if (f==0){
 				izq=String.valueOf(scuadrado.charAt(f));
 			}	
-			else
+			else{
 				izq = scuadrado.substring(0,f);
 			}
 				
