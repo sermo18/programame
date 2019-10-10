@@ -32,7 +32,7 @@ public class Solution115{
 			}
 				
 			der = scuadrado.substring(f,scuadrado.length()); 
-			if (der.equals(""')){
+			if (der.equals("")){
 				der="0";
 			}
 		
