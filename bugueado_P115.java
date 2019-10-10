@@ -56,7 +56,7 @@ public class Solution115{
 	}
 
 	public static void main (String args[]){
-		in = new java.util.Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		while (in.hasNext()){
       System.out.print(" No no nooooo, no has dicho la palabra mágica ");
 			casoDePrueba();
