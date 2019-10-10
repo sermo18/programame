@@ -2,8 +2,6 @@ import java.util.*;
 
 public class Solution115{
 	
-	static java.util.Scanner in;
-
 	public static void casoDePrueba(){
 		
 		long k=in.nextLong();
